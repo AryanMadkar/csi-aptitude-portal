@@ -1,0 +1,8 @@
+flask==2.3.3
+flask-cors==4.0.0
+langchain==0.0.335
+langchain-groq==0.0.3
+langchain-core==0.0.13
+groq==0.4.1
+python-dotenv==1.0.0
+pydantic==1.10.13
